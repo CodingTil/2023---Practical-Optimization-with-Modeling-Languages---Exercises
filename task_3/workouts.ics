@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//workout calendar//
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230720T123000Z
+DTEND;VALUE=DATE-TIME:20230720T145900Z
+DESCRIPTION:Running Warmup\nBench Press\nBenchpress Inclined Dunbells\nCab
+ le Crossover\nCore Workout\nDips\nLateral Raises\nShoulder Press\nTriceps 
+ Overhead Pull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230721T140000Z
+DTEND;VALUE=DATE-TIME:20230721T162830Z
+DESCRIPTION:Rowing Warmup\nBarbell Row\nBiceps Curls Dunbells\nButterfly R
+ everse\nCable Row Narrow\nCable Row Wide\nDeadlift\nLat Pull\nLunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230723T060000Z
+DTEND;VALUE=DATE-TIME:20230723T082900Z
+DESCRIPTION:Cycling Warmup\nBench Press\nBenchpress Declined Dunbells\nBen
+ chpress Inclined Dunbells\nButterfly\nCable Crossover\nCore Workout\nPushu
+ ps\nTriceps Rope Pulldown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230724T140000Z
+DTEND;VALUE=DATE-TIME:20230724T162830Z
+DESCRIPTION:Running Warmup\nAbduction Machine\nBiceps Curls Dunbells\nButt
+ erfly Reverse\nCable Row Narrow\nCable Row Wide\nDeadlift\nLat Pull\nLunge
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230727T163000Z
+DTEND;VALUE=DATE-TIME:20230727T190000Z
+DESCRIPTION:Rowing Warmup\nBench Press\nBenchpress Inclined Dunbells\nBice
+ ps Curls Dunbells\nCable Crossover\nCable Row Narrow\nCore Workout\nDeadli
+ ft\nLunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230730T060000Z
+DTEND;VALUE=DATE-TIME:20230730T082900Z
+DESCRIPTION:Cycling Warmup\nBench Press\nBenchpress Inclined Dunbells\nBut
+ terfly\nCable Crossover\nDips\nLateral Raises\nTriceps Overhead Pull\nTric
+ eps Rope Pulldown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230731T173000Z
+DTEND;VALUE=DATE-TIME:20230731T195830Z
+DESCRIPTION:Running Warmup\nAbduction Machine\nBiceps Curls Dunbells\nButt
+ erfly Reverse\nCable Row Narrow\nCore Workout\nDeadlift\nLat Pull\nLunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230802T153000Z
+DTEND;VALUE=DATE-TIME:20230802T175900Z
+DESCRIPTION:Running Warmup\nBench Press\nBenchpress Inclined Dunbells\nBut
+ terfly\nCable Crossover\nDips\nLateral Raises\nPushups\nTriceps Overhead P
+ ull
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230803T140000Z
+DTEND;VALUE=DATE-TIME:20230803T162830Z
+DESCRIPTION:Running Warmup\nBiceps Curls Dunbells\nButterfly Reverse\nCabl
+ e Row Narrow\nCable Row Wide\nCore Workout\nDeadlift\nLat Pull\nLunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230805T060000Z
+DTEND;VALUE=DATE-TIME:20230805T082900Z
+DESCRIPTION:Running Warmup\nBench Press\nBenchpress Declined Dunbells\nBen
+ chpress Inclined Dunbells\nButterfly\nCable Crossover\nLateral Raises\nSho
+ ulder Press\nTriceps Rope Pulldown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230806T060000Z
+DTEND;VALUE=DATE-TIME:20230806T082830Z
+DESCRIPTION:Cycling Warmup\nBarbell Row\nBiceps Curls Dunbells\nButterfly 
+ Reverse\nCable Row Narrow\nCore Workout\nDeadlift\nLat Pull\nLunges
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workout
+DTSTART;VALUE=DATE-TIME:20230809T140000Z
+DTEND;VALUE=DATE-TIME:20230809T162830Z
+DESCRIPTION:Rowing Warmup\nBenchpress Inclined Dunbells\nBiceps Curls Dunb
+ ells\nCable Crossover\nCable Row Narrow\nCore Workout\nDeadlift\nLat Pull\
+ nLunges
+END:VEVENT
+END:VCALENDAR
